@@ -1,0 +1,42 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  background-color: $grey100;
+  color: whitesmoke;
+  height: 100vh;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 50px;
+
+}
+
+p {
+  margin: 20px 0;
+  color: coral;
+  font-size: 1.7rem;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: cornsilk;
+  font-size: 1.3rem;
+}
+
+

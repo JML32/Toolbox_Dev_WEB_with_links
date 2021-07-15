@@ -1,0 +1,6 @@
+pour lancer SASS :
+
+sass --watch input.scss output.css
+
+ne pas oublier de mettre à jour le fichier main.scss avec les nouvelles pages SCSS à prendre en compte
+

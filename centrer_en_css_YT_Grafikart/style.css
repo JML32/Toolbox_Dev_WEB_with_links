@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #f2504b;
+    color:#FFF;
+    height: 250px;
+    border: 4px solid #7d2b27;
+
+}
+.box-content {
+    display: inline;
+    background-color: #4ba6a3;
+    border:2px solid #336663;
+
+}
