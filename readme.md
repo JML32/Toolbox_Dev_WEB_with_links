@@ -1,5 +1,11 @@
 # Toolbox for WEB dev
 
+several links on dev web topics
+
+
+
+reminder for Markdown :
+
 *Texte en italique*
 _Texte en italique_
 **Texte en gras**
